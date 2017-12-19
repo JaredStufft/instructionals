@@ -1,2 +1,2 @@
 # instructionals
-Code to partner with instructional videos.
+Code to partner with instructional articles and/or videos.
