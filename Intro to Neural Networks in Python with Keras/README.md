@@ -4,7 +4,7 @@ This set of materials goes over a **very** basic intro to machine learning, an o
 and how to apply and create neural networks in Python using the Keras package.
 
 # Contents
-* **NN w Keras.pptx:** Powerpoint presentation introducing very quickly the idea of machine learning and statistical modeling  
+* **NN w Keras.pptx:** Powerpoint presentation introducing the idea of machine learning and statistical modeling  
 as well as the basic math behind neural networks.
 * **Intro to Neural Networks in Python with Keras.ipynb:** A jupyter notebook containing the code examples and demonstration.
 * **environment.yml:** `environment.yml` file produced by conda. This can be used to reproduce the environment used for the code examples.
