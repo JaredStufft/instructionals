@@ -1,4 +1,4 @@
-name: nn_keras
+name: nn_keras1
 channels:
   - anaconda-fusion
   - defaults
@@ -34,7 +34,7 @@ dependencies:
   - idna=2.7=py36_0
   - incremental=17.5.0=py36_0
   - intel-openmp=2019.0=118
-  - ipykernel=4.9.0=py36_0
+  - ipykernel=4.9.0=py36_1
   - ipython=6.5.0=py36_0
   - ipython_genutils=0.2.0=py36h3c5d0ee_0
   - ipywidgets=7.4.1=py36_0
@@ -42,7 +42,7 @@ dependencies:
   - jinja2=2.10=py36_0
   - jpeg=9b=hb83a4c4_2
   - jsonschema=2.6.0=py36h7636477_0
-  - jupyter=1.0.0=py36_6
+  - jupyter=1.0.0=py36_7
   - jupyter_client=5.2.3=py36_0
   - jupyter_console=5.2.0=py36_1
   - jupyter_core=4.4.0=py36_0
@@ -96,9 +96,9 @@ dependencies:
   - pywinpty=0.5.4=py36_0
   - pyyaml=3.13=py36hfa6e2cd_0
   - pyzmq=17.1.2=py36hfa6e2cd_0
-  - qt=5.9.6=vc14h62aca36_0
+  - qt=5.9.6=vc14h1e9a669_2
   - qtconsole=4.4.1=py36_0
-  - scikit-learn=0.19.2=py36heebcf9a_0
+  - scikit-learn=0.20.0=py36heebcf9a_0
   - scipy=1.1.0=py36h4f6bf74_1
   - send2trash=1.5.0=py36_0
   - service_identity=17.0.0=py36h28b3542_0
@@ -116,8 +116,8 @@ dependencies:
   - tornado=5.1=py36hfa6e2cd_0
   - traitlets=4.3.2=py36h096827d_0
   - twisted=18.7.0=py36hfa6e2cd_1
-  - vc=14=h0510ff6_3
-  - vs2015_runtime=14.0.25123=3
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
   - wcwidth=0.1.7=py36h3d5aa90_0
   - webencodings=0.5.1=py36_1
   - werkzeug=0.14.1=py36_0
@@ -130,4 +130,4 @@ dependencies:
   - zlib=1.2.11=h8395fce_2
   - zope=1.0=py36_1
   - zope.interface=4.5.0=py36hfa6e2cd_0
-prefix: C:\Users\Jared\Anaconda3\envs\nn_keras
+prefix: C:\Users\Jared\Anaconda3\envs\nn_keras1
